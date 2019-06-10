@@ -1,2 +1,2 @@
-# Master-Splinter
-Fictional character from the Teenage Mutant Ninja Turtles
+# Hooli
+Hooli is an international corporation founded by Gavin Belson and Peter Gregor
